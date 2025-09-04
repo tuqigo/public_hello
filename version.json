@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "min_version": "1.0.1",
+  "min_version": "1.0.0",
   "force_update": false,
   "message": "发现新版本，建议更新以获得更好的体验！",
   "changelog": [
@@ -9,6 +9,7 @@
   "release_date": "2025-01-04",
   "download_url": "https://github.com/你的用户名/你的仓库名/releases/latest"
 }
+
 
 
 
